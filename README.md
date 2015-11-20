@@ -1,0 +1,2 @@
+# foobatic
+DDD example implementation
